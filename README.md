@@ -1,2 +1,2 @@
 # Literacy-Project
-A Cryptocurrency alt coin experiment
+Decentralized Literacy Platform
