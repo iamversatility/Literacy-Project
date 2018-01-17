@@ -1,2 +1,2 @@
-# inkcoin-project
+# Literacy-Project
 A Cryptocurrency alt coin experiment
